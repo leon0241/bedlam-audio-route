@@ -13,6 +13,7 @@ Notes:
     - Backstage (this also includes Night Vision feed to backstage monitor)
     - Workshop speaker
     - FOH (for some reason only works in box office, and the cafe ones won't work, literally no idea why)
+- FX Sends are technically a channel itself, but didn't really have a intuitive way to put it into the diagram as a channel (lmk if u think of one :))
 
 
 ![X32 Setup](../images/x32-setup.svg)
