@@ -7,6 +7,12 @@ None of the files are actually routed like this yet, a few files are of a simila
 - panto '24 file (kinda)
 
 Notes:
+- I have kinda defined the hierarchy as:
+    - Input: Something that can be routed to a channel
+    - Channel: Something that can be routed to a MixBus
+    - MixBus: Something that can be routed to a Matrix
+    - Matrix: Final Layer
+    - Output: Something that can be routed from any of the above
 - If the patchbay is set up in a combined setup, then the Stereo Bus is the only thing that will have valid sends in the **Main Speaker System** / blue section of the diagram.
 - Stereo bus simply refers to the main faders, grandmaster, etc, but is technically a bus as it can be routed to matrices
 - Building Speaker bus goes to a 4-way RCA splitter that goes to
