@@ -5,8 +5,9 @@
 - Model of the PatchBay is the Neutrik NYS-SPP-L1
 
 ### How To Read the diagrams
-- *Patch In* Refers to the top row (A), and is where the inputs are sent in
-- *Patch Out* Refers to the bottom Row (B), and is what output an input gets routed to
+- **Patch In** Refers to the top row (A), and is where the inputs are sent in
+- **Patch Out** Refers to the bottom Row (B), and is what output an input gets routed to
+- **Use** columns are purely referential, if you want to set up stuff then just connect input - output in each row and it should work out of the box
 
 [Image of the Patchbay](../images/patchbay-image.jpg)
 
