@@ -7,7 +7,7 @@ None of the files are actually routed like this yet, a few files are of a simila
 - panto '24 file (kinda)
 
 Notes:
-- I have kinda defined the hierarchy as:
+- Don't know if the semantics are actually correct, but I have kinda defined the hierarchy as:
     - Input: Something that can be routed to a channel
     - Channel: Something that can be routed to a MixBus
     - MixBus: Something that can be routed to a Matrix
